@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "subject": "ssl issue",
+    "status": "client response pending",
+    "addedAt": "2022-10-23",
+    "history": [
+      {
+        "date": "20-10-10",
+        "message": "yo yo honey singh error in the program",
+        "messageby": "yo yo honey singh"
+      },
+      {
+        "date": "20-10-10",
+        "message": "ro ro  raaftaar handles the error in the program",
+        "messageby": "ro ro raftarr"
+      },
+      {
+        "date": "20-10-10",
+        "message": "yo yo honey singh error in the program",
+        "messageby": "yo yo honey singh"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "subject": "client issue",
+    "status": "client response pending",
+    "addedAt": "2022-10-23"
+  },
+  {
+    "id": 3,
+    "subject": "email issue",
+    "status": "client response pending",
+    "addedAt": "2022-10-23"
+  },
+  {
+    "id": 4,
+    "subject": "display issue",
+    "status": "client response pending",
+    "addedAt": "2022-12-23"
+  },
+  {
+    "id": 5,
+    "subject": "voice note issue",
+    "status": "client response pending",
+    "addedAt": "2022-10-23"
+  },
+  {
+    "id": 6,
+    "subject": "corrupt file issue",
+    "status": "client response pending",
+    "addedAt": "2022-10-23"
+  },
+  {
+    "id": 7,
+    "subject": "peinding issue",
+    "status": "client response pending",
+    "addedAt": "2022-10-23"
+  },
+  {
+    "id": 8,
+    "subject": "voice note issue",
+    "status": "client response pending",
+    "addedAt": "2022-10-23"
+  },
+  {
+    "id": 9,
+    "subject": "corrupt file issue",
+    "status": "client response pending",
+    "addedAt": "2022-10-23"
+  },
+  {
+    "id": 10,
+    "subject": "peinding issue",
+    "status": "client response pending",
+    "addedAt": "2022-10-23"
+  }
+]

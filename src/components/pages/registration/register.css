@@ -1,0 +1,10 @@
+.design {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-design {
+  width: 40vw;
+  border-radius: 15px;
+}
